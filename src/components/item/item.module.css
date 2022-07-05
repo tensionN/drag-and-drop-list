@@ -1,0 +1,39 @@
+.ava {
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+}
+
+.item {
+    background-color: #fff;
+    align-items: center;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 10px;
+    font-family: Cambria;
+    cursor: grab;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 270px;
+}
+
+.intro h3 {
+    margin-top: -0px;
+    font-weight: 500;
+}
+
+.intro span {
+    color: #5050f6;
+}
+
+.authorname {
+    align-self: flex-end;
+    color: #5050f6;
+
+}

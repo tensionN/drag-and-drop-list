@@ -1,0 +1,14 @@
+body {
+    background-color: #3e71ff;
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    background-color: #d5b7b7;
+    width: 443px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 7px;
+}
